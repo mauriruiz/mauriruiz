@@ -2,9 +2,9 @@
 
 **Product engineer. Build, ship, operate.**
 
-8+ years on production systems. Startups to high-traffic platforms. Architecture, infrastructure, and the boring parts that keep it up at 3am.
+8+ years on production systems. Startups to high-traffic platforms. Architecture, infrastructure, reliabilty.
 
-- Currently **Site Reliability Engineer @ [WebBeds](https://www.webbeds.com)** — high-traffic distributed systems, Cedar-based authorization in Rust, observability
+- Currently **Site Reliability Engineer @ [WebBeds](https://www.webbeds.com)** - high-traffic distributed systems, Cedar-based authorization in Rust, observability
 - Founder & engineer on multiple shipped products
 - Based in Palma, Spain · Remote-friendly
 
@@ -14,11 +14,11 @@
 
 | Product | What it is |
 |---|---|
-| [Kontest](https://kontest.me) | Automated League of Legends tournaments on Discord |
 | [Clubbo](https://clubbo.io) | Reservation platform for service businesses |
 | [Merqo](https://www.merqo.es) | White-label online ordering for restaurants |
 | [Certy](https://www.certy.es) | Digital certificate management |
 | [DondeComerEn](https://www.dondecomeren.com) | Curated dining deals in Mallorca |
+| [Kontest](https://kontest.me) | Automated League of Legends tournaments on Discord |
 
 Full case studies and timeline → [mauriruiz.com](https://www.mauriruiz.com)
 
@@ -26,11 +26,11 @@ Full case studies and timeline → [mauriruiz.com](https://www.mauriruiz.com)
 
 ## Stack
 
-**Languages** Rust · Go · TypeScript · Java · Node · Python
-**Backend & Data** PostgreSQL · Kafka · Redis · Spring Boot
-**Infrastructure** Kubernetes · Docker · Terraform · AWS · Scaleway
-**Frontend** React · Next.js · Flutter
-**Reliability** SRE · Observability · Incident Response · IaC · System Design
+- **Languages** Rust · Go · TypeScript · Java · Node · Python
+- **Backend & Data** PostgreSQL · Kafka · Redis · Spring Boot
+- **Infrastructure** Kubernetes · Docker · Terraform · AWS · Scaleway
+- **Frontend** React · Next.js · Flutter
+- **Reliability** SRE · Observability · Incident Response · IaC · System Design
 
 ---
 
