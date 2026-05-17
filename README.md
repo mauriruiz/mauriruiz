@@ -7,7 +7,6 @@
 - Currently **Site Reliability Engineer @ [WebBeds](https://www.webbeds.com)** — high-traffic distributed systems, Cedar-based authorization in Rust, observability
 - Founder & engineer on multiple shipped products
 - Based in Palma, Spain · Remote-friendly
-- Open to senior product roles and select freelance engagements
 
 ---
 
