@@ -15,19 +15,19 @@
 | Product | What it is |
 |---|---|
 | [Clubbo](https://clubbo.io) | Reservation platform for service businesses |
-| [Merqo](https://www.merqo.es) | White-label online ordering for restaurants |
 | [Certy](https://www.certy.es) | Digital certificate management |
-| [DondeComerEn](https://www.dondecomeren.com) | Curated dining deals in Mallorca |
-| [Kontest](https://kontest.me) | Automated League of Legends tournaments on Discord |
+| [DondeComemos](https://www.dondecomemos.es) | Curated dining deals in Mallorca |
+| [Merqo](https://www.merqo.es) | White-label online ordering for restaurants |
+| [Kontest](https://kontest.me) | eSports tournaments platform |
 
-Full case studies and timeline → [mauriruiz.com](https://www.mauriruiz.com)
+My profile → [mauriruiz.com](https://www.mauriruiz.com)
 
 ---
 
 ## Stack
 
 - **Languages** Rust · Go · TypeScript · Java · Node · Python
-- **Backend & Data** PostgreSQL · Kafka · Redis · Spring Boot
+- **Backend & Data** PostgreSQL · Kafka · Redis · RabbitMQ
 - **Infrastructure** Kubernetes · Docker · Terraform · AWS · Scaleway
 - **Frontend** React · Next.js · Flutter
 - **Reliability** SRE · Observability · Incident Response · IaC · System Design
