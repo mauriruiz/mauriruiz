@@ -10,16 +10,6 @@
 
 ---
 
-## Things I've shipped
-
-- **Company-wide authorization platform** — architected and implemented WebBeds' central authz service in **Rust + Cedar policies**: the single service accountable for authorization logic across all company services, with services progressively migrating to rely entirely on it.
-- **Session security at scale** — proposed, designed, and shipped trusted-device fingerprinting + session cookie rotation, now protecting **millions of users** and significantly reducing fraud.
-- **Zero → ~€5M platform** — joined a startup running on spreadsheets and a Shopify store (~€30k/yr), built its first production platform (Laravel + React Hydrogen), then led a full rebuild in NestJS/Angular behind its growth to a ~€5M valuation.
-- **Founder** — built an eSports tournament platform (Go microservices on Kubernetes) from idea to production, leading a team of four.
-- **ELK observability** — implemented company-wide monitoring and alerting on Elasticsearch/Kibana across microservices handling millions of requests.
-
----
-
 ## Selected work
 
 | Product | What it is |
