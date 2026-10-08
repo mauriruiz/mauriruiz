@@ -1,52 +1,12 @@
-# Mauri Ruiz
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/systems-dark.svg">
+  <img alt="Animated diagrams of systems I build: authorization in Rust and Cedar, AI agents with tools and guardrails, a SaaS product from users to payments, a GitOps platform on Kubernetes, and event-driven backend services." src="./assets/systems-light.svg" width="100%">
+</picture>
 
-**Site Reliability & Platform Engineer — build, ship, operate.**
+<br>
 
-7+ years on production systems, from founding startups to a global travel platform handling **~10 billion requests/day**.
+**I’m Mauri, a software engineer in Palma de Mallorca.** I design, build and run systems like these end to end — products, platforms, backends and AI agents — for teams and founders who need someone to own the hard part.
 
-- Currently **Site Reliability Engineer @ [WebBeds](https://www.webbeds.com)** — reliability, security platform engineering, and internal services in **Go** and **Rust**
-- Founder & engineer on multiple shipped products
-- Based in Palma, Spain · Remote-friendly
+Most of my work is private. Ask and I’ll walk you through it.
 
----
-
-## Selected work
-
-| Product | What it is |
-|---|---|
-| [Clubbo](https://clubbo.io) | Reservation platform for service businesses |
-| [Certy](https://www.certy.es) | Digital certificate management |
-| [DondeComemos](https://www.dondecomemos.es) | Curated dining deals in Mallorca |
-| [Merqo](https://www.merqo.es) | White-label online ordering for restaurants |
-| [Kontest](https://kontest.me) | eSports tournaments platform |
-
-My profile → [mauriruiz.com](https://www.mauriruiz.com)
-
----
-
-## Stack
-
-- **Languages** — Go · Rust · TypeScript / Node · Java · Python
-- **Backend & Data** — PostgreSQL · Kafka · Redis · RabbitMQ · NestJS · microservices
-- **Infrastructure** — Kubernetes · Docker · Terraform · ArgoCD · AWS · Scaleway
-- **Reliability & Observability** — Grafana · Elasticsearch / Kibana (ELK) · AWS Athena · incident response · IaC
-- **Security & Platform** — Cedar authorization · session security & device fingerprinting
-- **Frontend** — React · Next.js · Angular · Flutter
-
----
-
-## How I work
-
-- **End-to-end ownership** — architecture, code, deploy, operate. No throw-over-the-wall.
-- **Boring production** — observability, runbooks, and automated safety beat clever abstractions.
-- **Pragmatic, not dogmatic** — pick the simplest thing that survives growth.
-- **Learn what the business needs** — picked up Laravel, Angular, and Rust on the job because the problem demanded it, and shipped them to production.
-
----
-
-## Connect
-
-- Site · [mauriruiz.com](https://www.mauriruiz.com)
-- Email · [me@mauriruiz.com](mailto:me@mauriruiz.com)
-- LinkedIn · [linkedin.com/in/mauri-ruiz-b21396138](https://www.linkedin.com/in/mauri-ruiz-b21396138/)
-- Book a call · [calendly.com/mauri-ruiz](https://calendly.com/mauri-ruiz)
+[mauriruiz.com](https://www.mauriruiz.com) &nbsp;·&nbsp; [me@mauriruiz.com](mailto:me@mauriruiz.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mauri-ruiz-b21396138/)
