@@ -9,4 +9,4 @@
 
 Most of my work is private. Ask and I’ll walk you through it.
 
-[mauriruiz.com](https://www.mauriruiz.com) &nbsp;·&nbsp; [me@mauriruiz.com](mailto:me@mauriruiz.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mauri-ruiz-b21396138/)
+[mauriruiz.com](https://www.mauriruiz.com) &nbsp;·&nbsp; [me@mauriruiz.com](mailto:me@mauriruiz.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mauri-ruiz-b21396138/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@mauri_ruiz)
